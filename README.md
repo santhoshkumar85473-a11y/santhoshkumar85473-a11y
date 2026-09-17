@@ -24,12 +24,6 @@ I'm an aspiring Data Analyst with a background in Business Analytics. I enjoy wo
 | 📊 Adventure Works – Tableau Analysis | Tableau       | Interactive dashboards and business visualizations |
 | 📈 Adventure Works – Power BI Analysis| Power BI, DAX | Interactive dashboards, data modeling and business intelligence |
 
-## 🛠️ Technical Skills
-
-Data Analysis:-SQL, Excel, Power BI, Tableau  
-Business Analytics:- Data Analysis, Business Intelligence, Data Visualization  
-Other:-Data Cleaning, Data Transformation, Dashboard Development
-
 📊 Project Emojis
 1. Adventure Works – SQL Data Analysis
 Analyzed Adventure Works data using SQL to perform joins, date analysis, sales calculations, production cost analysis, and profit calculations.
