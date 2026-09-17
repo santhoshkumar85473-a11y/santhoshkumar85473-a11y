@@ -1,6 +1,6 @@
- 👋 Hi, I'm Santhosh Kumar
+👋 Hi, I'm Santhosh Kumar
 
-### Aspiring Data Analyst | Business Analytics
+🚀 Aspiring Data Analyst | 📊 Business Analytics | 💻 SQL | 📗 Excel | 📈 Power BI | 📊 Tableau
 
 I'm an aspiring Data Analyst with a background in Business Analytics. I enjoy working with data, identifying patterns, and turning data into meaningful business insights.
 
@@ -50,22 +50,18 @@ Used formulas, PivotTables, and dashboards to analyze the Adventure Works datase
 
 
 Technical Skills:
-SQL | Microsoft Excel | Power BI | Tableau | Data Analytics | Data Visualization | Business Analytics
+ 🛠️ Technical Skills
 
-Tools:
-MySQL | Power Query | DAX | PivotTables | Looker Studio
+ 📊 Data Analytics
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-Technical Skills:
-SQL | Microsoft Excel | Power BI | Tableau | Data Analytics | Data Visualization | Business Analytics
-
-Tools:
-MySQL | Power Query | DAX | PivotTables | Looker Studio
-
-Technical Skills:
-SQL | Microsoft Excel | Power BI | Tableau | Data Analytics | Data Visualization | Business Analytics
-
-Tools:
-MySQL | Power Query | DAX | PivotTables | Looker Studio
+ 💼 Business Analytics
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-0078D4?style=for-the-badge)
+![Business Analytics](https://img.shields.io/badge/Business%20Analytics-5C2D91?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge)
 
 
  🎯 Career Interests
@@ -94,5 +90,6 @@ Exler, Bangalore
 
  📫 Connect With Me
 
-GitHub: @santhoshkumar85473-a11y
-Insta : @sun__thosh
+💼 LinkedIn: https://www.linkedin.com/in/rp-santhosh-kumar-ba9aa31b7?utm_source=share_via&utm_content=profile&utm_medium=member_android
+📧    Email: santhoshkumar85473@gmail.com
+🐙   GitHub:[Santhosh Kumar](https://github.com/your-username)
