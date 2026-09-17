@@ -35,6 +35,7 @@ Interactive dashboards, data modeling, DAX calculations, and business intelligen
 - Business Analytics
 - Business Intelligence
 
+
  🎓 Education
 
 Bachelor of Business Administration (BBA)
@@ -42,6 +43,15 @@ IFIM College, Bangalore
 
 Data Analytics Training
 Exler, Bangalore
+
+📗 [Adventure Works – Excel Analysis](YOUR_EXCEL_REPOSITORY_LINK)
+
+🗄️ [Adventure Works – SQL Analysis](YOUR_SQL_REPOSITORY_LINK)
+
+📊 [Adventure Works – Tableau Analysis](YOUR_TABLEAU_REPOSITORY_LINK)
+
+ 📈 [Adventure Works – Power BI Analysis](YOUR_POWERBI_REPOSITORY_LINK)
+
 
  📫 Connect With Me
 
