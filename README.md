@@ -15,19 +15,21 @@ I'm an aspiring Data Analyst with a background in Business Analytics. I enjoy wo
 - Data Visualization
 
 📊 Featured Projects
+## 📊 Featured Projects
 
-📗 Adventure Works – Excel Analysis
-Data cleaning, analysis, calculations, and business insights using Microsoft Excel.
+| Project | Tools | Description |
+|---|---|---|
+| 📗 Adventure Works – Excel Analysis   | Excel         | Data cleaning, calculations, analysis and business insights |
+| 🗄️ Adventure Works – SQL Analysi      | SQL           | Joins, date analysis, sales, production cost and profit calculations |
+| 📊 Adventure Works – Tableau Analysis | Tableau       | Interactive dashboards and business visualizations |
+| 📈 Adventure Works – Power BI Analysis| Power BI, DAX | Interactive dashboards, data modeling and business intelligence |
 
-🗄️ Adventure Works – SQL Analysis
-SQL-based analysis using joins, date functions, calculations, sales, production cost, and profit analysis.
+## 🛠️ Technical Skills
 
- 📊 Adventure Works – Tableau Analysis
-Interactive dashboards and business visualizations created using Tableau.
+Data Analysis:-SQL, Excel, Power BI, Tableau  
+Business Analytics:** Data Analysis, Business Intelligence, Data Visualization  
+Other:-Data Cleaning, Data Transformation, Dashboard Development
 
-
-📈 Adventure Works – Power BI Analysis
-Interactive dashboards, data modeling, DAX calculations, and business intelligence using Power BI.
 
  🎯 Career Interests
 
@@ -56,3 +58,4 @@ Exler, Bangalore
  📫 Connect With Me
 
 GitHub: @santhoshkumar85473-a11y
+Insta : @sun__thosh
