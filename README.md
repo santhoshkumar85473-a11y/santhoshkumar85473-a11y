@@ -15,7 +15,6 @@ I'm an aspiring Data Analyst with a background in Business Analytics. I enjoy wo
 - Data Visualization
 
 📊 Featured Projects
-## 📊 Featured Projects
 
 | Project | Tools | Description |
 |---|---|---|
