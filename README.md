@@ -84,5 +84,7 @@ Exler, Bangalore
  📫 Connect With Me
 
 💼 LinkedIn: https://www.linkedin.com/in/rp-santhosh-kumar-ba9aa31b7?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
 📧    Email: santhoshkumar85473@gmail.com
+
 🐙   GitHub:[Santhosh Kumar](https://github.com/your-username)
