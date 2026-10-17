@@ -78,13 +78,12 @@ Adventure Works
 
 📊 [Adventure Works – Tableau Analysis]
 
-📈 [Adventure Works – Power BI Analysis]
+ 📈 [Adventure Works – Power BI Analysis]
 
-Banking Analytics
 
  🏦 [Banking Analytics – Excel Dashboard]
 
- 📊 Banking Analytics – Power BI Dashboard]
+📊 [Banking Analytics – Power BI Dashboard]
 
 
  📫 Connect With Me
