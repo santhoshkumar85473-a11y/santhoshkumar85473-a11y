@@ -40,6 +40,22 @@ Applied filters, calculated fields, and data visualizations to communicate insig
 Performed data cleaning, calculations, analysis, and business reporting using Microsoft Excel.
 Used formulas, PivotTables, and dashboards to analyze the Adventure Works dataset.
 
+## 📊 Project Highlights
+
+1. **Adventure Works – SQL Analysis: Analyzed business data using SQL to perform joins, sales analysis, production cost analysis, and profit calculations. Used UNION ALL, LEFT JOIN, CASE statements, and date functions to derive business insights.
+
+2. **Adventure Works – Power BI Dashboard: Developed an interactive Power BI dashboard to analyze business performance. Used Power Query, data modeling, DAX, and visualizations to present actionable insights.
+
+3. Adventure Works – Tableau Dashboard: Created interactive Tableau dashboards to analyze business trends and performance. Used filters, calculated fields, and visualizations to communicate insights effectively.
+
+4. Adventure Works – Excel Analysis: Performed data cleaning, calculations, and business reporting using Microsoft Excel. Used formulas, PivotTables, and dashboards to analyze business data.
+
+   Banking Analytics – Excel Dashboard: Analyzed banking data using Microsoft Excel to organize financial information, perform calculations, and present insights through dashboard visualizations.
+
+6. Banking Analytics – Power BI Dashboard: Developed an interactive Power BI dashboard to visualize banking data and present financial insights using dashboard visualizations.
+
+7. Mowgli Guest House – Excel Analysis: Analyzed guest house business data using Microsoft Excel to explore sales, item types, and business performance.
+
 
 
 Technical Skills:
