@@ -13,6 +13,7 @@ I'm an aspiring Data Analyst with a background in Business Analytics. I enjoy wo
 - Data Analytics
 - Business Analytics
 - Data Visualization
+- Chatgpt
 
 📊 Featured Projects
 
