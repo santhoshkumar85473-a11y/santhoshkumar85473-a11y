@@ -69,16 +69,22 @@ Technical Skills:
 Bachelor of Business Administration (BBA)
 IFIM College, Bangalore
 
-Data Analytics Training
-Exler, Bangalore
+Data Analytics Project
+Adventure Works
 
-📗 [Adventure Works – Excel Analysis](YOUR_EXCEL_REPOSITORY_LINK)
+📗 [Adventure Works – Excel Analysis]
 
-🗄️ [Adventure Works – SQL Analysis](YOUR_SQL_REPOSITORY_LINK)
+🗄️ [Adventure Works – SQL Analysis]
 
-📊 [Adventure Works – Tableau Analysis](YOUR_TABLEAU_REPOSITORY_LINK)
+📊 [Adventure Works – Tableau Analysis]
 
- 📈 [Adventure Works – Power BI Analysis](YOUR_POWERBI_REPOSITORY_LINK)
+📈 [Adventure Works – Power BI Analysis]
+
+Banking Analytics
+
+ 🏦 [Banking Analytics – Excel Dashboard]
+
+ 📊 Banking Analytics – Power BI Dashboard]
 
 
  📫 Connect With Me
