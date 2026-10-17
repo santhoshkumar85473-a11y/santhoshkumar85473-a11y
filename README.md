@@ -24,24 +24,8 @@ I'm an aspiring Data Analyst with a background in Business Analytics. I enjoy wo
 | 📊 Adventure Works – Tableau Analysis | Tableau       | Interactive dashboards and business visualizations |
 | 📈 Adventure Works – Power BI Analysis| Power BI, DAX | Interactive dashboards, data modeling and business intelligence |
 
-📊 Project Emojis
-1. Adventure Works – SQL Data Analysis
-Analyzed Adventure Works data using SQL to perform joins, date analysis, sales calculations, production cost analysis, and profit calculations.
-Used UNION ALL, LEFT JOIN, CASE, date functions, and calculated fields to derive business insights.
 
-2. Adventure Works – Power BI Dashboard
-Developed an interactive Power BI dashboard to analyze business performance and present data-driven insights.
-Used Power Query, data modeling, DAX, and interactive visualizations to transform data into actionable reports.
-
-3. Adventure Works – Tableau Dashboard
-Created interactive Tableau dashboards to analyze business trends and performance.
-Applied filters, calculated fields, and data visualizations to communicate insights effectively.
-
-4. Adventure Works – Excel Data Analysis
-Performed data cleaning, calculations, analysis, and business reporting using Microsoft Excel.
-Used formulas, PivotTables, and dashboards to analyze the Adventure Works dataset.
-
-## 📊 Project Highlights
+ 📊 Project Highlights
 
 1. **Adventure Works – SQL Analysis: Analyzed business data using SQL to perform joins, sales analysis, production cost analysis, and profit calculations. Used UNION ALL, LEFT JOIN, CASE statements, and date functions to derive business insights.
 
@@ -59,7 +43,7 @@ Used formulas, PivotTables, and dashboards to analyze the Adventure Works datase
 
 
 
-Technical Skills:
+
  🛠️ Technical Skills
 
  📊 Data Analytics
