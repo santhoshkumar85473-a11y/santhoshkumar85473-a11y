@@ -72,7 +72,7 @@ IFIM College, Bangalore
 Data Analytics Project
 Adventure Works
 
-📗 [Adventure Works – Excel Analysis]
+📗 [Adventure Works – Excel Analysis] 
 
 🗄️ [Adventure Works – SQL Analysis]
 
